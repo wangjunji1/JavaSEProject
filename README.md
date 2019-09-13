@@ -12,5 +12,9 @@
 + 理解java语言的跨平台实现原理
 + 理解jdk和jre的组成和作用
 + 能够配置环境变量JAVA_HOME
-+ 
+
+
+重要的内容
+Java虚拟机规范
+```https://docs.oracle.com/javase/specs/jvms/se8/html/index.html```
   
