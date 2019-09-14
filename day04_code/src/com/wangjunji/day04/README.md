@@ -7,4 +7,4 @@ ctrl+/单行注释
 alt+shirt + 上下键  
 ctrl + shift + /选中代码  
 alt+ins 自动生成代码  
-
+ctrl+alt+t  在idea中添加try/catch的快捷键
