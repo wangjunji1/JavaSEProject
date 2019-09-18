@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaSEProject.iml" filepath="$PROJECT_DIR$/JavaSEProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MutiThread/MutiThread.iml" filepath="$PROJECT_DIR$/MutiThread/MutiThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_code/day01_code.iml" filepath="$PROJECT_DIR$/day01_code/day01_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02_code/day02_code.iml" filepath="$PROJECT_DIR$/day02_code/day02_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03_code/day03_code.iml" filepath="$PROJECT_DIR$/day03_code/day03_code.iml" />
@@ -14,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/day09_code/day09_code.iml" filepath="$PROJECT_DIR$/day09_code/day09_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10_code/day10_code.iml" filepath="$PROJECT_DIR$/day10_code/day10_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day11_code/day11_code.iml" filepath="$PROJECT_DIR$/day11_code/day11_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16_code/day15_code.iml" filepath="$PROJECT_DIR$/day16_code/day15_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17_code/day17_code.iml" filepath="$PROJECT_DIR$/day17_code/day17_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day27_code/day27_code.iml" filepath="$PROJECT_DIR$/day27_code/day27_code.iml" />
     </modules>
   </component>

@@ -31,5 +31,5 @@ public class Outer {
         }
     }
 
-    Demo03.Outer.Inner inner = new Demo03.Outer.Inner();
+    Demo03.Outer.Inner inner;
 }
