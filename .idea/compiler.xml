@@ -11,8 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="day11_code" target="1.5" />
-      <module name="JavaSEProject" target="1.5" />
+      <module name="day11_code" target="1.8" />
+      <module name="JavaSEProject" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
